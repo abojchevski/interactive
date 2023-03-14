@@ -1,5 +1,4 @@
 numpy
 matplotlib
 ipywidgets
-ipyml
 jupyter_contrib_nbextensions
